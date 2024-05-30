@@ -15,7 +15,7 @@ if(randomNumber1 > randomNumber2)
         heading.innerHTML="You win!"
     }
 else if (randomNumber1 === randomNumber2) {
-    heading.innerHTML="The match ended in a draw!"
+    heading.innerHTML="Draw!"
 
 } else {
     heading.innerHTML="You lose!"
